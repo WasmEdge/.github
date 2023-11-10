@@ -2,6 +2,8 @@
   
 ![WasmEdge Logo](https://github.com/WasmEdge/.github/raw/main/profile/wasmedge-runtime-logo.png)
 
+# [ 😎 WasmEdge is the easiest and fastest way to run LLMs on your own devices. 😎 ](https://www.secondstate.io/articles/wasm-runtime-agi/)
+
 WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. It is [one of the fastest Wasm VMs](https://ieeexplore.ieee.org/document/9214403) today. WasmEdge is an official sandbox project hosted by the [CNCF](https://www.cncf.io/). Its [use cases](https://wasmedge.org/book/en/intro/use.html) include modern web application architectures (Isomorphic & Jamstack applications), microservices on the edge cloud, serverless SaaS APIs, embedded functions, blockchain smart contracts, and smart IoT devices.
   
 **[Check out our official documentation](https://wasmedge.org/book/en/)**
